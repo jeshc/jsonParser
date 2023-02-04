@@ -1,6 +1,10 @@
-package org.example;
+package org.example.jsondriver;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
+import org.example.jsondriver.util.BracketToken;
 
 import java.util.ArrayList;
 import java.util.Collections;
